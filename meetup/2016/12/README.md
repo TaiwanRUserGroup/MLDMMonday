@@ -1,4 +1,6 @@
 # MLDM Monday 2016/12
+
+MLDM Monday 十二月議程總覽
 ---
 
 ## 2016-12-05
@@ -19,35 +21,32 @@
 
 [MLDM Monday | 沙龍座談 Panel Discussion w/ Winston (RStudio, contributor­ of ggplot2)](https://www.meetup.com/Taiwan-R/events/236230384/)
 
-## 2016-12-27 [TW.R x HK.R 台港社群交流](https://www.meetup.com/Taiwan-R/events/236327688/)
+## `2016-12-27` | [TW.R x HK.R 台港社群交流](https://www.meetup.com/Taiwan-R/events/236327688/)
 
-  ### Lightening Talk
-  [`slides`](https://blog.liang2.tw/2016Talk-Bioconda-UpSetR-Snakemake/) [`video`]()
+  - ### Lightening Talk  [`slides`](https://blog.liang2.tw/2016Talk-Bioconda-UpSetR-Snakemake/) [`video`]()
 
+    - `Title`
 
-  - `Title`
+      An Introduction to Bioconda, UpSetR, and snakemake
 
-  An Introduction to Bioconda, UpSetR, and snakemake
+    - `Abstract`
 
-  - `Abstract`
+      This short talk will introduce a few interesting on-going R projects and packages in independent sections.  First section covers (Bio)conda, the package management system for both R and Python, where bioconda brings sepecific support for commonly used bioinformatic tools in both languages.  Second section introduces a R package, UpSetR, which implements a novel way to visualize intersections of sets, that is, to visualize how different groups of samples overlap with each other.  If time permits, lastly, an extended makefile-like build system, snakemake, will be demonstrated to construct a parallelized analysis pipeline involving both R and Python scripts.
 
-  This short talk will introduce a few interesting on-going R projects and packages in independent sections.  First section covers (Bio)conda, the package management system for both R and Python, where bioconda brings sepecific support for commonly used bioinformatic tools in both languages.  Second section introduces a R package, UpSetR, which implements a novel way to visualize intersections of sets, that is, to visualize how different groups of samples overlap with each other.  If time permits, lastly, an extended makefile-like build system, snakemake, will be demonstrated to construct a parallelized analysis pipeline involving both R and Python scripts.
+    - `Speaker`
 
-  - `Speaker`
+      亮亮 liang2
 
-  @ccwang002
+  - ### Main Session [`slides`](20161227_social-media.pdf) [`video`]()
 
-  ### Main Session
-  [`slides`](20161227_social-media.pdf) [`video`]()
+    - `Title`
 
-  - `Title`
+      Harnessing social media data with machine learning
 
-  Harnessing social media data with machine learning
+    - `Abstract`
 
-  - `Abstract`
+      Judging others' psychological traits is not only an essential skill in successful social living, but also an important factor in product development. Psychological traits are a key driver behind human interaction, behavior and emotions. Although accurate judgments stem from social-cognitive skills, developments in machine learning show that computer models can also make valid judgments. It is also possible that this technique can assist clinical diagnosis in the future.
 
-  Judging others' psychological traits is not only an essential skill in successful social living, but also an important factor in product development. Psychological traits are a key driver behind human interaction, behavior and emotions. Although accurate judgments stem from social-cognitive skills, developments in machine learning show that computer models can also make valid judgments. It is also possible that this technique can assist clinical diagnosis in the future.
+    - `Speaker`
 
-  - `Speaker`
-
-  Lucia, Lushi Chen
+      Lucia, Lushi Chen
