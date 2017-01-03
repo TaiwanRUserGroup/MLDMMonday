@@ -19,12 +19,10 @@
 
 [MLDM Monday | 沙龍座談 Panel Discussion w/ Winston (RStudio, contributor­ of ggplot2)](https://www.meetup.com/Taiwan-R/events/236230384/)
 
-## 2016-12-27
+## 2016-12-27 [TW.R x HK.R 台港社群交流](https://www.meetup.com/Taiwan-R/events/236327688/)
 
-[TW.R x HK.R 台港社群交流](https://www.meetup.com/Taiwan-R/events/236327688/)
-
-### Lightening Talk
-[`slides`](https://blog.liang2.tw/2016Talk-Bioconda-UpSetR-Snakemake/) [`video`]()
+  ### Lightening Talk
+  [`slides`](https://blog.liang2.tw/2016Talk-Bioconda-UpSetR-Snakemake/) [`video`]()
 
 
   - `Title`
@@ -39,8 +37,8 @@
 
   @ccwang002
 
-### Main Session
-[`Slides`](20161227_social-media.pdf) [`video`]()
+  ### Main Session
+  [`slides`](20161227_social-media.pdf) [`video`]()
 
   - `Title`
 
