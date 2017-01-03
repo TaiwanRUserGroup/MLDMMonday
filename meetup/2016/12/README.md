@@ -1,5 +1,4 @@
-![](../../../R_logo.png = 200x)
-# MLDM Monday 2016/12
+# <img src="../../../R_logo.png" width="72"> MLDM Monday 2016/12
 ---
 
 ## `> 2016-12-05 <- `[`Education Series 擁抱跨界力 – CS+X 的新方向 p.s. Working With JavaScript In R`](https://www.meetup.com/R-Ladies-Taipei/events/235551756/)
