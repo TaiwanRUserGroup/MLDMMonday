@@ -1,25 +1,15 @@
 # MLDM Monday 2016/12
-
-MLDM Monday 十二月議程總覽
 ---
 
-## 2016-12-05
+## `2016-12-05` | [Education Series 擁抱跨界力 – CS+X 的新方向 p.s. Working With JavaScript In R](https://www.meetup.com/R-Ladies-Taipei/events/235551756/)
 
-[Education Series 擁抱跨界力 – CS+X 的新方向 p.s. Working With JavaScript In R](https://www.meetup.com/R-Ladies-Taipei/events/235551756/)
+## `2016-12-05` | [MLDM Monday x 機票](https://www.meetup.com/Taiwan-R/events/235124874/)
 
-[MLDM Monday x 機票](https://www.meetup.com/Taiwan-R/events/235124874/)
+## `2016-12-12` | [MLDM Monday | 資料新聞 123](https://www.meetup.com/Taiwan-R/events/236109591/)
 
-## 2016-12-12
+## `2016-12-19` | [MLDM Monday X Quantitativ­e Trading Strategy Mining Study Group](https://www.meetup.com/Taiwan-R/events/234986439/)
 
-[MLDM Monday | 資料新聞 123](https://www.meetup.com/Taiwan-R/events/236109591/)
-
-## 2016-12-19
-
-[MLDM Monday X Quantitativ­e Trading Strategy Mining Study Group](https://www.meetup.com/Taiwan-R/events/234986439/)
-
-## 2016-12-22
-
-[MLDM Monday | 沙龍座談 Panel Discussion w/ Winston (RStudio, contributor­ of ggplot2)](https://www.meetup.com/Taiwan-R/events/236230384/)
+## `2016-12-22` | [MLDM Monday | 沙龍座談 Panel Discussion w/ Winston (RStudio, contributor­ of ggplot2)](https://www.meetup.com/Taiwan-R/events/236230384/)
 
 ## `2016-12-27` | [TW.R x HK.R 台港社群交流](https://www.meetup.com/Taiwan-R/events/236327688/)
 
