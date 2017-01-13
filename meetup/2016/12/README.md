@@ -5,7 +5,59 @@
 
 ## `> 2016-12-05 <- `[`MLDM Monday x 機票`](https://www.meetup.com/Taiwan-R/events/235124874/)
 
+  - ### Main Session [`slides`]() [`video`]()
+
+    - `Title`
+
+      R 出動態旅遊路線
+
+    - `Abstract`
+
+      主要內容為分享關於可樂旅遊網的機票資料的抓取，探索分析，視覺化的結果。
+
+    - `Speaker`
+
+      **Johnson**（日盛期貨）
+
+  - ### Lightening Talk [`slides`]() [`video`]()
+
+    - `Title`
+
+    - `Abstract`
+
+    - `Speaker`
+
+      **Brady**（Trip+ & 一直飛股份有限公司創辦人）
+
+
+
 ## `> 2016-12-12 <- `[`MLDM Monday | 資料新聞 123`](https://www.meetup.com/Taiwan-R/events/236109591/)
+
+這次的議程會由兩個短講組成，帶大家從資料的角度來入門資料新聞。
+
+  - ### Main Session [`slides`](https://github.com/cicadatatw/nobel-viz) [`video`](https://www.youtube.com/watch?v=yJMk95nE3fA)
+
+    - `Title`
+
+      諾貝爾獎資料視覺化
+
+    - `Abstract`
+
+    - `Speaker`
+
+      **Miss Moss** @missmoss
+
+  - ### Main Session [`slides`](https://suensummit.github.io/MLDMMonday_20161212) [`video`](https://www.youtube.com/watch?v=P4CglcSFAsM)
+
+    - `Title`
+
+      空間圖資初探 | A Brief Exploratory on GIS with R
+
+    - `Abstract`
+
+    - `Speaker`
+
+      **Summit Suen** @suensummit
 
 ## `> 2016-12-19 <- `[`MLDM Monday X Quantitativ­e Trading Strategy Mining Study Group`](https://www.meetup.com/Taiwan-R/events/234986439/)
 
@@ -25,7 +77,7 @@
 
     - `Speaker`
 
-      亮亮 liang2
+      **亮亮 liang2** @ccwang002
 
   - ### Main Session [`slides`](20161227_social-media.pdf) [`video`]()
 
@@ -39,4 +91,4 @@
 
     - `Speaker`
 
-      Lucia, Lushi Chen
+      **Lucia, Lushi Chen**
