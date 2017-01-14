@@ -36,3 +36,21 @@
     - [Youtube](https://www.youtube.com/watch?v=l_e90qOuv2Q)
   - `Abstract`: 今年 DeepMind 提出適用在這些情境的訓練方法 DDPG (Deep Deterministic Policy Gradient), 本次分享將透過賽車模擬器 (TORCS), 介紹 DDPG 內容與如何應用。
   - `Speaker`: Jiawei (陳嘉葳)
+
+---
+
+## `[2016/11/28] MLDM Monday X Quantitative`
+
+### Main Session 
+  - `Title`: Trading Strategy Mining Study Group
+    - [meetup page](https://www.meetup.com/Taiwan-R/events/234986417/)
+  - `Abstract`: 群益 API x C#.NET x R 的實做經驗分享。
+    - 本系列之活動嚴禁錄音錄影！也不會提供線上會後影片！
+
+
+## `[2016/11/28] MLDM Monday X R-Laides`
+
+### Main Session
+  - `Title`: [Annual Party 周年慶] R-Laides兩歲了 Celebration for 2-years-old
+    - [meetup page](https://www.meetup.com/R-Ladies-Taipei/events/235691389/)
+
